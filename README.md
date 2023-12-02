@@ -9,7 +9,7 @@
 
 ### Tutorials:
 #### [Click Here for HTML Media Tutorial](https://github.com/rwn3x/1600-Final_Project/blob/ff280c7d71df0a084208335276cb80856177f01e/HTMLMedia.md)
-#### [Click Here for HTML Video Tutorial]()
+#### [Click Here for HTML Video Tutorial](https://github.com/rwn3x/1600-Final_Project/blob/d9a11473ff0d1a9306792fd0c3614ce1fda7f878/HTMLVideo.md)
 #### [Click Here for HTML Audio Tutorial]()
 #### [Click Here for HTML Plug-Ins Tutorial]()
 #### [Click Here for HTML YouTube Tutorial]()
