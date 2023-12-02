@@ -16,7 +16,7 @@
 ## How it Works
 #### The controls attribute adds video controls, like play, pause, and volume.
 #### It is a good idea to always include width and height attributes. If height and width are not set, the page might flicker while the video loads.
-#### The <source> element allows you to specify alternative video files which the browser may choose from. The browser will use the first recognized format.
+#### The &lt;source&gt; element allows you to specify alternative video files which the browser may choose from. The browser will use the first recognized format.
 #### The text between the &lt;video&gt; and &lt;/video&gt; tags will only be displayed in browsers that do not support the &lt;video&gt; element.
 
 ## HTML &lt;video&gt; Autoplay
@@ -44,10 +44,31 @@ Your browser does not support the video tag.
 
 ## HTML Video Formats
 #### There are three supported video formats: MP4, WebM, and Ogg. The browser support for the different formats is:
+| Browser | MP4 | WEBM | Ogg |
+| ------ | ----- | ------ | ----- |
+| Edge | YES | YES | YES |
+| Chrome | YES | YES | YES |
+| Firefox | YES | YES | YES |
+| Safari | YES | YES | NO |
+| Opera | YES | YES | YES |
 
+## HTML Video - Media Types
+| File Format | Media Type |
+| ------- | ------ | 
+| MP4 | video/mp4 | 
+| WebM | video/webm |
+| Ogg | video/ogg |
 
+## HTML Video - Methods, Properties, and Events
+#### The HTML DOM defines methods, properties, and events for the <video> element.
+#### This allows you to load, play, and pause videos, as well as setting duration and volume.
+#### There are also DOM events that can notify you when a video begins to play, is paused, etc.
 
-
-
+## HTML Video Tags
+| Tag | Description |
+| ------- | ------ | 
+| &lt;video&gt; | Defines a video or movie | 
+| &lt;source&gt; | Defines multiple media resources for media elements, such as &lt;video&gt; and &lt;audio&gt; |
+| &lt;track&gt; | Defines text tracks in media players |
 
 
