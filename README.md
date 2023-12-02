@@ -8,7 +8,7 @@
 #### The tutorial presented on w3schools does indicate if it is directed at a particular age group. However, this tutorial could be for beginners to intermediate learners in the field of web development.
 
 ### Tutorials:
-#### [Click Here for HTML Media Tutorial]()
+#### [Click Here for HTML Media Tutorial](https://github.com/rwn3x/1600-Final_Project/blob/ff280c7d71df0a084208335276cb80856177f01e/HTMLMedia.md)
 #### [Click Here for HTML Video Tutorial]()
 #### [Click Here for HTML Audio Tutorial]()
 #### [Click Here for HTML Plug-Ins Tutorial]()
