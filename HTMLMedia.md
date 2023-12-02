@@ -43,3 +43,5 @@
 | Ogg | .ogg | Theora Ogg. Developed by the Xiph.Org Foundation. Supported by HTML. |
 | MP3 | .mp3 | MP3 files are actually the sound part of MPEG files. MP3 is the most popular format for music players. Combines good compression (small files) with high quality. Supported by all browsers. |
 | MP4 | .mp4 | MP4 is a video format, but can also be used for audio. Supported by all browsers. |
+
+#### Note: Only MP3, WAV, and Ogg audio are supported by the HTML standard.
