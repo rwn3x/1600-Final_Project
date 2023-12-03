@@ -1,7 +1,7 @@
 # HTML Audio
 #### The HTML &lt;audio&gt; element is used to play an audio file on a web page.
 
-## The HTML &lt;audio&gt; Element
+## The HTML &lt;audio&gt; Element:
 #### To play an audio file in HTML, use the &lt;audio&gt; element:
 
 ### Example:
