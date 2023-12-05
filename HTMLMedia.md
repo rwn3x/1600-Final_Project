@@ -1,5 +1,5 @@
 # HTML Media
-[Click Here to Go Back Home](https://github.com/rwn3x/1600-Final_Project/blob/main/HTMLMedia.md)
+[Click Here to Go Back Home](https://github.com/rwn3x/1600-Final_Project/blob/main/README.md)
 
 ## What is Multimedia?
 #### Multimedia comes in many different formats. It can be almost anything you can hear or see, like images, music, sound, videos, records, films, animations, and more.
