@@ -47,4 +47,5 @@
 
 #### Note: Only MP3, WAV, and Ogg audio are supported by the HTML standard.
 
+[Next Tutorial -> HTML Video Tutorial](https://github.com/rwn3x/1600-Final_Project/blob/main/HTMLVideo.md)
 
