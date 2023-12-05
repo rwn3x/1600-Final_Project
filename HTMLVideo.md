@@ -72,4 +72,4 @@ Your browser does not support the video tag.
 | &lt;source&gt; | Defines multiple media resources for media elements, such as &lt;video&gt; and &lt;audio&gt; |
 | &lt;track&gt; | Defines text tracks in media players |
 
-[Click for Next Tutorial -> HTML Audio Tutorial](https://github.com/rwn3x/1600-Final_Project/blob/main/HTMLAudio.md)
+##### [Click for Next Tutorial -> HTML Audio Tutorial](https://github.com/rwn3x/1600-Final_Project/blob/main/HTMLAudio.md)
