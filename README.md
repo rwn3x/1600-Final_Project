@@ -1,7 +1,7 @@
 # HTML Multimedia Tutorial
 
 ## By: www.w3schools.com
-##### [Click Here to Visit w3schools Tutorial Online](https://www.w3schools.com/html/html_media.asp)
+##### [Click Here to Visit the HTML Multimedia Tutorial Online](https://www.w3schools.com/html/html_media.asp)
 
 #### The purpose of the HTML Multimedia tutorial is to provide information, tutorials, or guidelines on how to effectively incorporate and manage these different types of multimedia content in web pages using HTML and associated technologies​
 
