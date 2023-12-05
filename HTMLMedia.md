@@ -1,5 +1,5 @@
 # HTML Media
-[Click Here to Go Back Home](https://github.com/rwn3x/1600-Final_Project/blob/main/README.md)
+###### [Click Here to Go Back Home](https://github.com/rwn3x/1600-Final_Project/blob/main/README.md)
 
 ## What is Multimedia?
 #### Multimedia comes in many different formats. It can be almost anything you can hear or see, like images, music, sound, videos, records, films, animations, and more.
@@ -46,3 +46,5 @@
 | MP4 | .mp4 | MP4 is a video format, but can also be used for audio. Supported by all browsers. |
 
 #### Note: Only MP3, WAV, and Ogg audio are supported by the HTML standard.
+
+
