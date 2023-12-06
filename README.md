@@ -5,7 +5,7 @@
 
 #### The purpose of the HTML Multimedia tutorial is to provide information, tutorials, or guidelines on how to effectively incorporate and manage these different types of multimedia content in web pages using HTML and associated technologies​
 
-#### The tutorial presented on w3schools does indicate if it is directed at a particular age group. However, this tutorial could be for beginners to intermediate learners in the field of web development.
+#### The tutorial presented on w3schools doesn't indicate if it is directed at a particular age group. However, this tutorial could be for beginners to intermediate learners in the field of web development.
 
 #### Tutorials:
 - [Click Here for HTML Media Tutorial](https://github.com/rwn3x/1600-Final_Project/blob/main/HTMLMedia.md)
