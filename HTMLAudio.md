@@ -70,4 +70,4 @@ Your browser does not support the audio element.
 | &lt;audio&gt; | Defines sound content | 
 | &lt;source&gt; | Defines multiple media resources for media elements, such as &lt;video&gt; and &lt;audio&gt; | 
 
-
+##### [Click for Next Tutorial -> HTML Plug-Ins Tutorial](https://github.com/rwn3x/1600-Final_Project/blob/main/HTMLPlugIns.md)
