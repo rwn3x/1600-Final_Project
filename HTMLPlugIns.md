@@ -1,5 +1,6 @@
 # HTML Plug-ins
 #### Plug-ins are computer programs that extend the standard functionality of the browser.
+###### [Click Here to Go Back Home](https://github.com/rwn3x/1600-Final_Project/blob/main/README.md)
 
 ## Plug-ins:
 #### Plug-ins were designed to be used for many different purposes:
@@ -46,3 +47,5 @@
 ```html
 <embed width="100%" height="500px" src="snippet.html">
 ```
+
+##### [Click for Next Tutorial -> HTML YouTube Tutorial](https://github.com/rwn3x/1600-Final_Project/blob/main/HTMLYouTube.md)
